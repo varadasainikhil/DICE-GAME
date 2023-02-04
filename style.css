@@ -1,0 +1,33 @@
+body{
+    background-color:#011502;
+    color: #9ec5ab;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+#mainArea{
+    margin: 7% 15%;
+}
+
+
+#titleText{
+    font-size: 4rem;
+}
+
+
+#linkToPersonalWebsite{
+    color: #9ec5ab;
+    text-decoration:none;
+}
+
+.diceImage{
+    padding-top: 2%;
+}
+.lr-padding{
+    margin: 2% 15% 0% 15%;
+}
+
+h1{
+    margin: auto;
+    
+}
